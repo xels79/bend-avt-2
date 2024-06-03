@@ -1,0 +1,10 @@
+# Исключаемые директории
+.idea/
+.vscode/*
+!/.vscode/launch.json
+node_modules/
+.Ds_Store
+Thumbs.db
+desktop.ini
+package-lock.json
+
