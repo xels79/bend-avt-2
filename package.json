@@ -1,0 +1,22 @@
+{
+  "name": "bend-avt-2",
+  "version": "1.0.0",
+  "description": "Тест сервера",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xels79/bend-avt-2.git"
+  },
+  "author": "Александр Щукин",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xels79/bend-avt-2/issues"
+  },
+  "homepage": "https://github.com/xels79/bend-avt-2#readme",
+  "dependencies": {
+    "mongodb": "^6.7.0"
+  }
+}
