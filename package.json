@@ -18,5 +18,8 @@
   "homepage": "https://github.com/xels79/bend-avt-2#readme",
   "dependencies": {
     "mongodb": "^6.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.0"
   }
 }
